@@ -1,0 +1,281 @@
+BANK NAME    : PUNJAB AND SIND BANK                                  26-06-2023
+BRANCH NAME  : JALANDHAR SME                                          13:15:47
+ADDRESS      : 201 INDUSTRIAL AREA
+               JALANDHAR
+CITY         : JALANDHAR (PUNJAB)
+PIN CODE     : 144001
+STATE        : Punjab        INDIA                                   Page No: 1
+IFSC Code    : PSIB0000697
+MICR Code    : 144023019                                             Phone no: 
+0181-5018936
+REPORT PRINTED BY : MANPRIT KAUR         Sol id :  0697
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+------------------------------
+Account No   :   06971300000866                       Nomination Registered   : 
+No
+A/C Name     :   M/S. KAMAL BRICKS INDUSTRY           Nominee Name            :
+Address      :   560 MOTA SINGH NAGAR
+                 JALANDHAR
+City         :   JALANDHAR (PPin Code  : 144001
+Tel No.      :                                        Sanction Limit          : 
+3000000
+A/C Holder   :   KAMAL BRICKS INDUSTRY                TOD Limit               : 
+0
+Joint Holders:                                        Interest Rate           : 
+13.1
+Open Date    :   31-05-2017
+      Statement of account for the period of      01-04-2022 to 25-06-2023
+01-APR-2022     B/F                                                             
+30,63,234.66Dr
+04-Apr-2022 T   BY 06971000010040                                               
+25,000.00     30,38,234.66Dr
+04-Apr-2022 C   By Cash                                                         
+40,000.00     29,98,234.66Dr
+20-Apr-2022 T   BY 06971000010040                                               
+2,000.00     29,96,234.66Dr
+29-Apr-2022 C   By Cash                                                         
+35,000.00     29,61,234.66Dr
+30-Apr-2022 T   06971300000866:Int.Coll:01-04-2022 to 30-04-2022                
+26,168.00                     29,87,402.66Dr
+30-May-2022 T   Inspection Charges Yearly                                       
+3,540.00                     29,90,942.66Dr
+31-May-2022 T   06971300000866:Int.Coll:01-05-2022 to 31-05-2022                
+26,897.00                     30,17,839.66Dr
+30-Jun-2022 T   06971300000866:Int.Coll:01-06-2022 to 30-06-2022                
+26,336.00                     30,44,175.66Dr
+01-Jul-2022 T   Cr-IMPS :P2A/05CREDIT/IMPS/21821/9308141/jaiveer                
+30,000.00     30,14,175.66Dr
+02-Jul-2022 T   Cr-IMPS :P2A/TRAMO TECH/                                        
+1.00     30,14,174.66Dr
+02-Jul-2022 T   Cr-IMPS :P2A                                                    
+25,000.00     29,89,174.66Dr
+02-Jul-2022 T   Cr-IMPS :P2A                                                    
+10,000.00     29,79,174.66Dr
+04-Jul-2022 T   TRANSACTION - LIEN REVERSAL                                     
+29.50                     29,79,204.16Dr
+04-Jul-2022 T   TRANSACTION - LIEN REVERSAL                                     
+88.50                     29,79,292.66Dr
+25-Jul-2022 C   By Cash                                                         
+
+15,000.00     29,64,292.66Dr
+26-Jul-2022 C   By Cash                                                         
+2,000.00     29,62,292.66Dr
+28-Jul-2022 C   TO CASH PAID TO JAIDEEP PADDA                       119         
+20,000.00                     29,82,292.66Dr
+30-Jul-2022 T   Cr-IMPS :P2A                                                    
+10,000.00     29,72,292.66Dr
+30-Jul-2022 T   06971300000866:Int.Coll:01-07-2022 to 31-07-2022                
+31,582.00                     30,03,874.66Dr
+31-Aug-2022 T   06971300000866:Int.Coll:01-08-2022 to 31-08-2022                
+30,347.00                     30,34,221.66Dr
+21-Sep-2022 C   By Cash                                                         
+35,000.00     29,99,221.66Dr
+22-Sep-2022 T   TRANSACTION - LIEN REVERSAL                                     
+17.70                     29,99,239.36Dr
+24-Sep-2022 T   Ledger Folio Charges                                            
+80.00                     29,99,319.36Dr
+24-Sep-2022 T   CGST                                                            
+14.40                     29,99,333.76Dr
+27-Sep-2022 C   By Cash                                                         
+15,000.00     29,84,333.76Dr
+30-Sep-2022 C   By Cash                                                         
+15,000.00     29,69,333.76Dr
+
+BANK NAME    : PUNJAB AND SIND BANK                                  26-06-2023
+BRANCH NAME  : JALANDHAR SME                                          13:15:47
+ADDRESS      : 201 INDUSTRIAL AREA
+               JALANDHAR
+CITY         : JALANDHAR (PUNJAB)
+PIN CODE     : 144001
+STATE        : Punjab        INDIA                                   Page No: 2
+IFSC Code    : PSIB0000697
+MICR Code    : 144023019                                             Phone no: 
+0181-5018936
+REPORT PRINTED BY : MANPRIT KAUR         Sol id :  0697
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+------------------------------
+Account No   :   06971300000866                       Nomination Registered   : 
+No
+A/C Name     :   M/S. KAMAL BRICKS INDUSTRY           Nominee Name            :
+Address      :   560 MOTA SINGH NAGAR
+                 JALANDHAR
+City         :   JALANDHAR (PPin Code  : 144001
+Tel No.      :                                        Sanction Limit          : 
+3000000
+A/C Holder   :   KAMAL BRICKS INDUSTRY                TOD Limit               : 
+0
+Joint Holders:                                        Interest Rate           : 
+13.1
+Open Date    :   31-05-2017
+      Statement of account for the period of      01-04-2022 to 25-06-2023
+30-Sep-2022 T   06971300000866:Int.Coll:01-09-2022 to 30-09-2022                
+29,843.00                     29,99,176.76Dr
+21-Oct-2022 T   BY 06971000010040                                               
+30,000.00     29,69,176.76Dr
+31-Oct-2022 T   06971300000866:Int.Coll:01-10-2022 to 31-10-2022                
+31,728.00                     30,00,904.76Dr
+30-Nov-2022 T   06971300000866:Int.Coll:01-11-2022 to 30-11-2022                
+30,833.00                     30,31,737.76Dr
+19-Dec-2022 C   By Cash                                                         
+25,000.00     30,06,737.76Dr
+20-Dec-2022 T   NEFT/JAIDEEP PADDA/CLBLN22353004318                             
+33,500.00     29,73,237.76Dr
+21-Dec-2022 T   TRANSACTION - LIEN REVERSAL                                     
+5.90                     29,73,243.66Dr
+23-Dec-2022 C   TO CASH SHRIKANT                                    121         
+20,000.00                     29,93,243.66Dr
+23-Dec-2022 T   Cr-IMPS :P2Ab/RZPX PVT L/                                       
+15,000.00     29,78,243.66Dr
+24-Dec-2022 T   Ledger Folio Charges                                            
+80.00                     29,78,323.66Dr
+24-Dec-2022 T   CGST                                                            
+14.40                     29,78,338.06Dr
+27-Dec-2022 C   TO CASH SHRIKANT                                    122         
+15,000.00                     29,93,338.06Dr
+31-Dec-2022 T   06971300000866:Int.Coll:01-12-2022 to 31-12-2022                
+32,718.00                     30,26,056.06Dr
+19-Jan-2023 T   Cr-IMPS :P2Ab/Razorpay  /                                       
+25,000.00     30,01,056.06Dr
+19-Jan-2023 T   Cr-IMPS :P2Ab/Razorpay  /                                       
+5,000.00     29,96,056.06Dr
+31-Jan-2023 T   06971300000866:Int.Coll:01-01-2023 to 31-01-2023                
+
+33,255.00                     30,29,311.06Dr
+28-Feb-2023 T   06971300000866:Int.Coll:01-02-2023 to 28-02-2023                
+34,947.00                     30,64,258.06Dr
+20-Mar-2023 C   By Cash                                                         
+25,000.00     30,39,258.06Dr
+20-Mar-2023 T   EXPERT TUBEWELL                                                 
+35,000.00     30,04,258.06Dr
+22-Mar-2023 T   UPI/CR/308125203694/GAGANDEEP SINGH/CLBL/013205016              
+20,000.00     29,84,258.06Dr
+24-Mar-2023 T   FROM 13/866                                                     
+5,17,400.00     24,66,858.06Dr
+24-Mar-2023 T   TO 13/665                                           123       
+2,41,000.00                     27,07,858.06Dr
+24-Mar-2023 C   TO CASH                                             125       
+2,70,000.00                     29,77,858.06Dr
+25-Mar-2023 T   Ledger Folio Charges                                            
+80.00                     29,77,938.06Dr
+25-Mar-2023 T   CGST                                                            
+14.40                     29,77,952.46Dr
+27-Mar-2023 T   TRANSACTION - LIEN REVERSAL                                     
+5.90                     29,77,958.36Dr
+27-Mar-2023 T   TRANSACTION - LIEN REVERSAL                                     
+3,481.00                     29,81,439.36Dr
+
+BANK NAME    : PUNJAB AND SIND BANK                                  26-06-2023
+BRANCH NAME  : JALANDHAR SME                                          13:15:47
+ADDRESS      : 201 INDUSTRIAL AREA
+               JALANDHAR
+CITY         : JALANDHAR (PUNJAB)
+PIN CODE     : 144001
+STATE        : Punjab        INDIA                                   Page No: 3
+IFSC Code    : PSIB0000697
+MICR Code    : 144023019                                             Phone no: 
+0181-5018936
+REPORT PRINTED BY : MANPRIT KAUR         Sol id :  0697
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+------------------------------
+Account No   :   06971300000866                       Nomination Registered   : 
+No
+A/C Name     :   M/S. KAMAL BRICKS INDUSTRY           Nominee Name            :
+Address      :   560 MOTA SINGH NAGAR
+                 JALANDHAR
+City         :   JALANDHAR (PPin Code  : 144001
+Tel No.      :                                        Sanction Limit          : 
+3000000
+A/C Holder   :   KAMAL BRICKS INDUSTRY                TOD Limit               : 
+0
+Joint Holders:                                        Interest Rate           : 
+13.1
+Open Date    :   31-05-2017
+      Statement of account for the period of      01-04-2022 to 25-06-2023
+27-Mar-2023 T   TRANSACTION - LIEN REVERSAL                                     
+17,700.00                     29,99,139.36Dr
+31-Mar-2023 T   Cr-IMPS :P2A/05CREDIT/IMPS/30901/5852595/Remittanc              
+25,000.00     29,74,139.36Dr
+31-Mar-2023 T   Cr-IMPS :P2A/05CREDIT/IMPS/30901/5855413/Remittanc              
+10,000.00     29,64,139.36Dr
+31-Mar-2023 T   06971300000866:Int.Coll:01-03-2023 to 31-03-2023                
+38,959.00                     30,03,098.36Dr
+29-Apr-2023 T   06971300000866:Int.Coll:01-04-2023 to 30-04-2023                
+37,274.00                     30,40,372.36Dr
+31-May-2023 T   06971300000866:Int.Coll:01-05-2023 to 31-05-2023                
+39,026.00                     30,79,398.36Dr
+22-Jun-2023 T   JAY PEE AND SONS                                                
+1,00,000.00     29,79,398.36Dr
+22-Jun-2023 T   Cr-IMPS :P2A/MSEWA SOFT/                                        
+15,000.00     29,64,398.36Dr
+22-Jun-2023 T   UPI/CR/317342835941/GAGANDEEP SINGH MARVAY/KKBK/32              
+10,000.00     29,54,398.36Dr
+23-Jun-2023 T   TRANSACTION - LIEN REVERSAL                                     
+318.60                     29,54,716.96Dr
+23-Jun-2023 T   TRANSACTION - LIEN REVERSAL                                     
+318.60                     29,55,035.56Dr
+23-Jun-2023 T   TRANSACTION - LIEN REVERSAL                                     
+3,540.00                     29,58,575.56Dr
+23-Jun-2023 C   By Cash                                                         
+1,00,000.00     28,58,575.56Dr
+23-Jun-2023 T   TRF/ TO JAYPEE AND SONS                             126       
+1,00,000.00                     29,58,575.56Dr
+24-Jun-2023 T   Ledger Folio Charges                                            
+80.00                     29,58,655.56Dr
+24-Jun-2023 T   CGST                                                            
+
+14.40                     29,58,669.96Dr
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+------------------------------
+Grand Total:                                                                 
+11,45,336.30    12,49,901.00    29,58,669.96Dr
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+------------------------------
+Please examine your statement immediately on receipt
+ If no error is reported in the printed statement
+ within 15 days, the account will be considered correct
+                                                   Manager _____________
+
+BANK NAME    : PUNJAB AND SIND BANK                                  26-06-2023
+BRANCH NAME  : JALANDHAR SME                                          13:15:47
+ADDRESS      : 201 INDUSTRIAL AREA
+               JALANDHAR
+CITY         : JALANDHAR (PUNJAB)
+PIN CODE     : 144001
+STATE        : Punjab        INDIA                                   Page No: 4
+IFSC Code    : PSIB0000697
+MICR Code    : 144023019                                             Phone no: 
+0181-5018936
+REPORT PRINTED BY : MANPRIT KAUR         Sol id :  0697
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+------------------------------
+Account No   :   06971300000866                       Nomination Registered   : 
+No
+A/C Name     :   M/S. KAMAL BRICKS INDUSTRY           Nominee Name            :
+Address      :   560 MOTA SINGH NAGAR
+                 JALANDHAR
+City         :   JALANDHAR (PPin Code  : 144001
+Tel No.      :                                        Sanction Limit          : 
+3000000
+A/C Holder   :   KAMAL BRICKS INDUSTRY                TOD Limit               : 
+0
+Joint Holders:                                        Interest Rate           : 
+13.1
+Open Date    :   31-05-2017
+      Statement of account for the period of      01-04-2022 to 25-06-2023
+REPORT!MAILID#
+
+NOTE:
+1) Maximum interest rate is displayed for account with multiple Sanction Limits
+2) Sanction Limit and Interest Rate is as on Calendar  date
+3) For further clarification regarding Sanction Limit and Interest Rate please 
+contact home branch
+Note:DICGC insures principal & interest of eligible depositors,upto a maximum 
+admissible amount of Rs 5 lakh
+ subject to changes from time to time**T&C of DICGC shall apply.
+****END OF STATEMENT****
